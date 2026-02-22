@@ -5,20 +5,25 @@ Este é meu projeto de desenvolvimento de jogo 3D em Godot. Estou criando protó
 ## Ultima atualização
 
 
-Primeiro protótipo exportado da versão 0.1.0
+Primeiro protótipo exportado da versão 0.2.5
 
 ### Funcionalidades incluídas:
 
-* Nenhuma.
+Funcionalidades incluídas:
+- Movimentação do personagem.
+- Movimentação da câmera.
+- Sistema de mapa.
+- Sistema de botões.
+- Interface Sobreposta.
 
 ### Observações:
 
 * Esta é uma versão inicial para testes de exportação
 * Bugs e instabilidades são esperados
 * Futuras versões adicionarão mecânicas, menus e assets
-* Para jogar, extraia o arquivo .zip e execute o arquivo .exe.
+* Para jogar, extraia o arquivo .zip e execute o arquivo.
 
-https://github.com/joaogabrieloliveiralopes/dev-projeto-de-jogo/releases/tag/Software
+https://github.com/joaogabrieloliveiralopes/The-Dark-Phenomenon/releases/tag/0.2.5
 
 
 ## Licença
