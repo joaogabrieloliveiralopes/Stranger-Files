@@ -1,10 +1,10 @@
-# Hello, Stranger
+# Stranger Files
 
-Hello, stranger.
+Stranger Files.
 
 If you are reading this, you have already entered.
 
-**Hello, Stranger** is a psychological horror game series developed using the Godot Engine.
+**Stranger Files** is a psychological horror game series developed using the Godot Engine.
 Each episode presents a short atmospheric experience where the player encounters unsettling environments and strange events.
 
 The focus of the project is tension, atmosphere, and the feeling that something is not quite right.
@@ -13,7 +13,7 @@ The focus of the project is tension, atmosphere, and the feeling that something 
 
 ## 🎮 About the Project
 
-Hello, Stranger is an experimental horror series focused on:
+Stranger Files is an experimental horror series focused on:
 
 * Psychological tension
 * Atmospheric environments
