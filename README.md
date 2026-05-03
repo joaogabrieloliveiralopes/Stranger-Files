@@ -1,72 +1,71 @@
-# Stranger Files
+# Hello, Stranger
 
-Stranger Files.
+**Hello, Stranger** é um jogo curto de terror psicológico desenvolvido na Godot.
 
-If you are reading this, you have already entered.
-
-**Stranger Files** is a psychological horror game series developed using the Godot Engine.
-Each episode presents a short atmospheric experience where the player encounters unsettling environments and strange events.
-
-The focus of the project is tension, atmosphere, and the feeling that something is not quite right.
+A experiência foca em atmosfera, tensão e na sensação constante de que algo não está certo.
 
 ---
 
-## 🎮 About the Project
+## 🎮 Sobre o Projeto
 
-Stranger Files is an experimental horror series focused on:
+Hello, Stranger é um projeto de terror baseado em ideias simples
 
-* Psychological tension
-* Atmospheric environments
-* Short immersive experiences
-* Iterative game development
+O jogo explora:
 
-The goal of this project is both creative and technical:
-to explore game architecture, interactive design, and the process of building small horror experiences over time.
-
----
-
-## 📖 Episodes
-
-**Episode 1 — In Development 🟨**
-
-The first episode serves as the foundation of the series, establishing the core systems and the tone of the project.
-
-Future episodes may explore different locations, events, and narrative ideas within the same universe.
+- Tensão psicológica  
+- Mudanças sutis no ambiente  
+- Design minimalista e imersivo  
+- A sensação de estar sendo observado  
 
 ---
 
-## ⚙️ Technology
+## 🧠 Conceito
 
-Engine: Godot
-Language: GDScript
-
-This project is currently in active development and systems may evolve over time.
+O jogador explora um ambiente limitado onde a realidade começa a se distorcer lentamente.
 
 ---
 
-## 🚧 Project Status
+## ⚙️ Tecnologia
 
-Active development.
-
-Early builds may contain bugs, experimental systems, and unfinished content.
-
----
-
-## 📜 License
-
-Copyright © 2026 João Gabriel
-All rights reserved.
-
-This project includes third-party assets licensed under their respective licenses.
+Engine: Godot  
+Linguagem: GDScript  
 
 ---
 
-## 📬 Contact
+## 🚧 Status do Projeto
+
+Em desenvolvimento — protótipo inicial.
+
+O objetivo é criar uma experiência curta, completa e bem polida.
+
+---
+
+## 🎯 Objetivo
+
+Este projeto faz parte do meu processo de aprendizado em desenvolvimento de jogos, com foco em:
+
+- Arquitetura de projeto  
+- Organização de cenas  
+- Sistemas de interação  
+- Design de atmosfera  
+
+---
+
+## 📜 Licença
+
+Copyright © 2026 João Gabriel  
+Todos os direitos reservados.
+
+Este projeto inclui assets de terceiros licenciados conforme suas respectivas licenças.
+
+---
+
+## 📬 Contato
 
 João Gabriel de Sousa Oliveira Lopes
 
-GitHub:
-https://github.com/joaogabrieloliveiralopes
+GitHub:  
+https://github.com/joaogabrieloliveiralopes  
 
-Email:
-[joaogabrieloliveira.dev@email.com](mailto:joaogabrieloliveira.dev@email.com)
+Email:  
+joaogabrieloliveira.dev@email.com
